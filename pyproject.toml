@@ -20,7 +20,7 @@ urllib3 = "<2"
 
 [tool.poetry.dev-dependencies]
 mypy = "*"
-pytest = "^7"
+pytest = "^8"
 pytest-cov = "*"
 pytest-benchmark = "*"
 psutil = "*"
